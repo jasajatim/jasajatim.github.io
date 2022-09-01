@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://jasajatim.github.io/</loc>
+    <lastmod>2022-08-31T05:10:53+01:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://jasajatim.github.io/index.html</loc>
+    <lastmod>2022-08-31T05:10:53+01:00</lastmod>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://jasajatim.github.io/gambar/ikon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jasajatim.github.io/gambar/klien-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jasajatim.github.io/gambar/klien-2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jasajatim.github.io/gambar/klien-3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jasajatim.github.io/gambar/klien-4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jasajatim.github.io/gambar/klien-5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jasajatim.github.io/gambar/klien-6.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jasajatim.github.io/gambar/klien-7.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
