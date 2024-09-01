@@ -31,6 +31,13 @@ p{
 section{
 	padding: 3rem;
 }
+.img500{
+	display: block;
+	margin: auto 20px;
+	width: 100%;
+	max-width: 500px;
+	height: auto;
+}
 @media(max-width: 768px){
 	section{
 		padding: 3rem 2rem;
