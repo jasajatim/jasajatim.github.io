@@ -33,7 +33,7 @@ section{
 }
 .img500{
 	display: block;
-	margin: auto 20px;
+	margin: 20px auto;
 	width: 100%;
 	max-width: 500px;
 	height: auto;
