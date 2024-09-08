@@ -1,0 +1,99 @@
+:root{
+  --kuning : #fbbc04;
+  --hijau : #34a853;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  border: none;
+  outline: none;
+  text-decoration: none;
+  list-style: none;
+}
+body{
+  font-family: "Lucida Console", "Courier New", monospace;
+  max-width: 1500px;
+  margin: auto;
+  color: #333;
+  background: ghostwhite;
+}
+img{
+  line-height: 0;
+}
+a{
+  color: inherit;
+}
+p{
+  line-height: 18px;
+}
+section{
+	padding: 3rem;
+}
+.img500{
+	display: block;
+	margin: 20px auto;
+	width: 100%;
+	max-width: 500px;
+	height: auto;
+}
+@media(max-width: 768px){
+	section{
+		padding: 3rem 2rem;
+	}
+}
+@media(max-width: 480px){
+	section{
+		padding: 3rem 1rem;
+	}
+}
+.heading{
+  margin-bottom: 2rem;
+  text-align: center;
+}
+.swiper-button-next,
+.swiper-button-prev{
+  top: 150px !important;
+}
+.swiper-button-next:after,
+.swiper-button-prev:after{
+  font-size: 1.5rem !important;
+  color: var(--kuning);
+}
+
+/* ---------- seksi main ---------- */
+.main h1{
+  text-align: center;
+  margin-bottom: 3rem;
+  color: var(--hijau);
+  font-size: 2rem;
+}
+.main img{
+  display: block;
+  margin: auto auto 3rem;
+  width: 100px;
+  height: 100px;
+}
+
+/* ---------- seksi galeri ---------- */
+.galeri{
+  user-select: none;
+}
+.galeri .galeri-klien-slider .slide img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.galeri .galeri-klien-slider .slide div{
+  padding: 8px 0 0;
+}
+.galeri .galeri-klien-slider .slide div > * {
+  margin-bottom: 4px;
+}
+.galeri .galeri-klien-slider .slide div h3{
+  font-size: 18px;
+  font-weight: 600;
+}
+.galeri .galeri-klien-slider .slide div p{
+}
