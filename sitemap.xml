@@ -37,4 +37,12 @@
       <image:loc>https://jasajatim.github.io/gambar/biro-jasa-surat-izin-usaha-jambi.jpg</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>https://jasajatim.github.io/jasa-perizinan-bengkulu.html</loc>
+    <lastmod>2022-09-01T05:10:53+01:00</lastmod>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://jasajatim.github.io/gambar/jasa-perizinan-bengkulu.jpg</image:loc>
+    </image:image>
+  </url>
 </urlset>
